@@ -1,5 +1,6 @@
 # bamazon-store-app
 This assignment is a CLI App,like an Amazon-like storefront developed with the Node.js & MySQL The app will take in orders from customers and deplete stock from the store's inventory.this app was developed in three stages as challenges in each stage
+##https://drive.google.com/file/d/1IvST5SqKsOMSjzG1WiKeIr3nlm4aMMoJ/view
 ## GIF ATTACHED
 ![1ivst5sqksomsjzg1wikeir3nlm4ammoj_e_download_gd_true](https://user-images.githubusercontent.com/44099789/52587965-5b214080-2e09-11e9-809d-abf04428171c.gif)
 
